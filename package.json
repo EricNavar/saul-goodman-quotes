@@ -1,0 +1,23 @@
+{
+  "name": "saul-goodman-quotes",
+  "version": "1.0.0",
+  "description": "'gives you Saul Goodman quotes'",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricNavar/saul-goodman-quotes.git"
+  },
+  "keywords": [
+    "better-call-saul",
+    "breaking-bad"
+  ],
+  "author": "eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricNavar/saul-goodman-quotes/issues"
+  },
+  "homepage": "https://github.com/EricNavar/saul-goodman-quotes#readme"
+}

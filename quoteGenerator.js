@@ -15,3 +15,10 @@ const quotes = [
     'He Said He\'ll Break My Legs, And Don’t Tell Me He Didn’t Mean It... He Gave Me The Dead Mackerel Eyes.',
     'You pulled that heartstrings con job on me?! You piece of shit! ‘Oh, my brain used to work, I’m sick, I don’t know what to do!’ Asshole! No wonder Rebecca left you! What took her so long?!',
 ];
+
+export const getQuote = () => {
+    const randomNumber = Math.floor(Math.random() * quotes.length);
+    return quotes[randomNumber];
+};
+
+export const getAllQuotes = () => quotes;
