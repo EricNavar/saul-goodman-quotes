@@ -1,9 +1,10 @@
 # saul-goodman-quotes
 
 - The only node package you will ever need
-- Request up to almost 16 unique quotes by Saul Goodman
+- Request up to almost 16 unique quotes by Saul
 
-![198859452-6fd35229-1dd6-4cec-aa0a-14b5969fde23](https://user-images.githubusercontent.com/32403644/200189330-9f93c3e6-5779-4283-967a-06e7d70b8477.jpeg)
+![billboard](https://user-images.githubusercontent.com/32403644/200190190-cbbd4f4a-6d43-40fd-883d-e98582b648fe.png)
+
 
 ## Usage
 
