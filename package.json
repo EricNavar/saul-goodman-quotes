@@ -1,5 +1,5 @@
 {
-  "name": "saul-goodman-quotes",
+  "name": "@ericnavar/saul-goodman-quotes",
   "version": "1.0.0",
   "description": "'gives you Saul Goodman quotes'",
   "main": "index.js",
@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EricNavar/saul-goodman-quotes.git"
+    "url": "ssh://git@github.com:ericnavar/saul-goodman-quotes.git",
+    "directory": "@ericnavar/saul-goodman-quotes"
   },
   "keywords": [
     "better-call-saul",
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/EricNavar/saul-goodman-quotes/issues"
   },
-  "homepage": "https://github.com/EricNavar/saul-goodman-quotes#readme"
+  "homepage": "https://github.com/EricNavar/saul-goodman-quotes#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/EricNavar"
+  }
 }
