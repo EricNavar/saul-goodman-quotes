@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:ericnavar/saul-goodman-quotes.git",
+    "url": "git+ssh://git@github.com/ericnavar/saul-goodman-quotes.git",
     "directory": "@ericnavar/saul-goodman-quotes"
   },
   "keywords": [
