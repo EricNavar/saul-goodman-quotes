@@ -1,6 +1,6 @@
 {
   "name": "@ericnavar/saul-goodman-quotes",
-  "version": "BCS-s1-e1",
+  "version": "BCS.s1.e1",
   "description": "'gives you Saul Goodman quotes'",
   "main": "index.js",
   "scripts": {
