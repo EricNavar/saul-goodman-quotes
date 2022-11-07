@@ -11,10 +11,14 @@
 ```
 import { getQuote, getAllQuotes } from '@ericnavar/saul-goodman-quotes'
 
-//returns a random quote (string)
+//returns a random quote (returns string)
 getQuote();
 
-//returns all quotes (string[])
+//returns all quotes (returns string[])
 getAllQuotes();
 
 ```
+
+## Contributing
+
+This project is open to PRs.
