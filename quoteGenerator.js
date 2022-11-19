@@ -5,7 +5,7 @@ const quotes = [
     'Congratulations, you’ve just left your family a second-hand Subaru.',
     'Better call Saul!',
     'I’m not saying it’s not bad. It’s bad. But it could be worse.',
-    'Clearly, his taste in women is the same as his taste in lawyers.',
+    'What the hell is wrong with you? You act like you’re the first guy this ever happened to. I caught my second wife screwing my stepdad, okay? It’s a cruel world, Walt. Grow up.',
     'What Did You Expect? Haji\'s Quick Vanish?Walt Told Me You Took A Run At This Bogdan Character, And He Wrestled You Into Submission With His Eyebrows.',
     'Did The Academy Hire You Right Out Of The Womb? You Guys Get Younger And Younger Every Year. We Have Laws, Detective, Have Your Kindergarten Teacher Read Them To You.',
     'Congratulations! You\'re Now Officially The Cute One Of The Group.',
