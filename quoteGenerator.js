@@ -7,6 +7,7 @@ const getURI = (random) => {
     return uri;
 }
 
+//TODO: add query param for random
 const request = async (random) => {
     const url = getURI(random);
     return axios.get(url)
@@ -14,7 +15,7 @@ const request = async (random) => {
             if (response.data && response.data.message)
                 return response.data.message;
             else
-                return 'fuck';
+                return 'error'; //TODO add better error
         })
         .catch(function (error) {
             console.log(error);
