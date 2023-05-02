@@ -1,7 +1,7 @@
 {
   "name": "@ericnavar/saul-goodman-quotes",
   "version": "2.0.0-BCS",
-  "description": "'gives you Saul Goodman quotes'",
+  "description": "All the Saul Goodman and Jimmy McGill quotes you will ever need",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
