@@ -1,9 +1,9 @@
-# saul-goodman-quotes
+# [saul-goodman-quotes](https://www.npmjs.com/package/@ericnavar/saul-goodman-quotes)
 
 Version 2.0.0-BCS
 
 - The only node package you will ever need
-- Request up to almost ~~16~~**52** unique quotes by Saul Goodman and Jimmy McGill
+- Request up to almost ~~16~~ **52** unique quotes by Saul Goodman and Jimmy McGill
 
 ![billboard](https://user-images.githubusercontent.com/32403644/200190190-cbbd4f4a-6d43-40fd-883d-e98582b648fe.png)
 
