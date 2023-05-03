@@ -1,3 +1,3 @@
-import {getQuote, getAllQuotes} from './quoteGenerator';
+const {getQuote, getAllQuotes} = require('./quoteGenerator');
 
 module.exports = {getQuote, getAllQuotes};

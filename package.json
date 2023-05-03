@@ -1,6 +1,6 @@
 {
   "name": "@ericnavar/saul-goodman-quotes",
-  "version": "2.0.6-BCS",
+  "version": "2.0.7-BCS",
   "description": "All the Saul Goodman and Jimmy McGill quotes you will ever need",
   "main": "index.js",
   "scripts": {
