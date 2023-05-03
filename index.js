@@ -1,1 +1,3 @@
-export {getQuote, getAllQuotes} from './quoteGenerator';
+import {getQuote, getAllQuotes} from './quoteGenerator';
+
+module.exports = {getQuote, getAllQuotes};
